@@ -32,7 +32,7 @@ To install and run Fract'ol on your local machine, follow these steps:
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/your-username/fract_ol.git
+git clone https://github.com/ShodanXII/fract_ol.git
 cd fract_ol
 ```
 
